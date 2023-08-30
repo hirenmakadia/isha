@@ -6,8 +6,8 @@ authors = ["Hiren Makadia <hiren.makadia@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
-torch = "^2.0.1"
+python = "^3.9"
+fastapi = "^0.103.0"
 
 
 [build-system]
